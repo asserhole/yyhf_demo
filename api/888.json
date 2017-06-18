@@ -1,0 +1,24 @@
+{
+	"id": 888,
+	"picpath": ["static/2/p1.jpg","static/2/p2.jpg","static/2/p3.jpg","static/2/p4.jpg"],
+	"title": "全身心漫步在一片阳光之中闲适氛围随意流露",
+	"price": 58,
+	"housetype": "3室2厅",
+	"area": 96,
+	"unitPrice": 6041,
+	"decoration": "精装",
+	"floor": "共6层",
+	"direction": "-",
+	"year": 2009,
+	"jtype": "板楼 多层",
+	"wtype": "住宅",
+	"finishdate": "1997-1-1",
+	"ownright": 70,
+	"greenrate": "28%",
+	"rongrate": 3.00,
+	"fee": "按月缴纳",
+	"company": "小区物管",
+	"developer": "-",
+	"village": "蓝天中苑"
+
+}

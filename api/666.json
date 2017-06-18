@@ -1,0 +1,24 @@
+{
+	"id": 666,
+	"picpath": ["static/1/p1.jpg","static/1/p2.jpg","static/1/p3.jpg"],
+	"title": "御源大湖区 楼 72万",
+	"price": 70,
+	"housetype": "2室2厅",
+	"area": 86,
+	"unitPrice": 8139,
+	"decoration": "普通",
+	"floor": "共18层",
+	"direction": "南北",
+	"year": 2009,
+	"jtype": "板塔结合 多层 小高层 高层",
+	"wtype": "住宅",
+	"finishdate": "2012-7",
+	"ownright": 70,
+	"greenrate": "47%",
+	"rongrate": 1.33,
+	"fee": "1.2元/平米/月",
+	"company": "四川润无声物业管理有限公司",
+	"developer": "成都御源置业有限公司",
+	"village": "御源大湖区"
+
+}
